@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crdooley
 - 👀 I’m interested in .NET Framework and .NET Core development
-- 🌱 I’m currently learning about microservices, Blazor, and MAUI
+- 🌱 I’m currently learning about microservices, Blazor, MAUI, and migrating SQL Server to PostgreSQL
 - 💞️ I have a strong passion for making software for public school districts and other education management software
 - 📫 chris@chrisdooley.net
 
